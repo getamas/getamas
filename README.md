@@ -3,7 +3,6 @@ Hi! My name is Tamás Gerényi 👋
 
 🌍  I am a Front-End Developer based in Pécs, Hungary.
 <br />
-<br />
 💻  A passionate, highly motivated web developer, having extensive knowledge in developing large-scale applications for the modern web. My key skills include but not limited to sitebuilding responsive website layouts, creating complex JavaScript solutions, single-page applications and architecturing web-based systems.
 <br/>
 
